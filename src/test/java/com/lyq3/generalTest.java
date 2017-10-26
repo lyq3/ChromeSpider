@@ -8,6 +8,7 @@ public class generalTest {
     private static  String a;
     public static void main(String[] args) {
         Map map = new HashMap();
+
         map.put("sds",123);
         boolean flg = map.containsKey("sds");
         Objects.requireNonNull(a,"a是空的");
