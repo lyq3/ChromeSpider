@@ -13,6 +13,13 @@ public class Fx<T,K,M extends  Number & Comparable & Lyq> {
         return s;
     }
 
+    public void testDt(Object a){
+        System.out.println("Object");
+    }
+    public void testDt(String s){
+        System.out.println("String");
+    }
+
     public T getFirst() {
         return first;
     }

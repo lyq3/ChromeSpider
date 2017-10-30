@@ -12,5 +12,8 @@ public class FxTest {
         System.out.println(x.getFirst());
         System.out.println(x.getSecod());
         System.out.println(x.getTree());
+
+
+        x.testDt("sd");
     }
 }
