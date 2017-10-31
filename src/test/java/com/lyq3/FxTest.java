@@ -7,7 +7,6 @@ public class FxTest {
         x.setFirst("ss");
         x.setSecod(3);
         x.setTree(5);
-
         x.min(s);
         System.out.println(x.getFirst());
         System.out.println(x.getSecod());
