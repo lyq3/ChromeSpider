@@ -1,5 +1,6 @@
 package com.lyq3;
 
+
 public class Fx<T,K,M extends  Number & Comparable & Lyq> {
     private T first;
     private K secod;
